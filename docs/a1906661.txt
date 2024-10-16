@@ -12,3 +12,6 @@
 
 ### CHANGED
 - High severity issue number: #59
+
+### CHANGED
+- Low severity issue number: #61
