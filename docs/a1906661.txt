@@ -10,3 +10,5 @@
 
 - Initial commit
 
+### CHANGED
+- High severity issue number: #59
